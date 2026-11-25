@@ -1,1 +1,1 @@
-# customer_based_RAG_chatbot
+# RAG_Based_customer_chatbot
